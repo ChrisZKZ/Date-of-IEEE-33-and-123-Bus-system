@@ -49,11 +49,8 @@ You may also use GitHub's **Cite this repository** button after `CITATION.cff` i
 
 ## Copyright and License
 
-Copyright (c) 2026.
+Copyright (c) 2026 Kaizhe Zhang
 
 This repository is released under the Apache License 2.0 unless otherwise stated.
 See the `LICENSE` file for details.
 
-## Contact
-
-For questions regarding the code, data, or paper, please open an issue in this repository.
