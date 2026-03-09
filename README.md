@@ -45,8 +45,6 @@ If this repository, the code, the data, or the supplementary materials are usefu
 }
 ```
 
-You may also use GitHub's **Cite this repository** button after `CITATION.cff` is added.
-
 ## Copyright and License
 
 Copyright (c) 2026 Kaizhe Zhang
